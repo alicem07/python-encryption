@@ -10,7 +10,7 @@ I use a basic cypher with a key to encrypt phrases.
 
 ## Running the Project
 
-1. Navigate to the project directory
+1. Navigate to the project directory using `cd path/to/python-encryption`
 2. Locate the file `Encryption.py`
 3. Execute the following command:
 ```bash
